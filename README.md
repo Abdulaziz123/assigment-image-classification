@@ -1,2 +1,2 @@
 # assigment-image-classification
-Thyroid nodules images
+Thyroid nodules classification
